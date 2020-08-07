@@ -1,3 +1,5 @@
+# NOTE: This repo has been archived. The project is continued at https://github.com/NathanHarding/Covid.jl
+
 # Covid.jl
 
 Read the docs [here](docs/Overview.md)
